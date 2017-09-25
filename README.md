@@ -6,6 +6,9 @@ FreeIPA is an open-source security solution for Linux which provides account man
 
 FreeIPA tutorial step by step https://fedoraproject.org/wiki/FreeIPA_step_by_step
 
+stahnuti ubuntu https://www.ubuntu.cz/stahnout
+stahnuti CentOS 
+
 ________________________________________________________________________________________________________________
 HARMONOGRAM PRÁCE:
 
