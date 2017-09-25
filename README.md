@@ -1,1 +1,2 @@
 # FreeIPA
+instalace VirtualBoxu
