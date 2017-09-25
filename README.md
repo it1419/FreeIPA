@@ -1,4 +1,4 @@
-# FreeIPA
+# FreeIPA, Samba
 instalace VirtualBoxu
 
 Co je freeIpa?
