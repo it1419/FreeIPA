@@ -18,3 +18,4 @@ HARMONOGRAM PRÁCE:
     4. Vyladění kodu
     5. Dokumentace k projektu
     6. Vytvoření prezentace
+_________________________________________________________________________________________________________________
