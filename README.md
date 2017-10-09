@@ -1,4 +1,4 @@
-# FreeIPA, Samba
+# FreeIPA
 instalace VirtualBoxu
 
 Co je freeIpa?
@@ -6,7 +6,8 @@ FreeIPA is an open-source security solution for Linux which provides account man
 
 FreeIPA tutorial step by step https://fedoraproject.org/wiki/FreeIPA_step_by_step
 
-stahnuti ubuntu https://www.ubuntu.cz/stahnout
+FreeIPA tutorial s nastavením https://www.digitalocean.com/community/tutorials/how-to-set-up-centralized-linux-authentication-with-freeipa-on-centos-7
+
 stahnuti CentOS http://192.168.10.1/http/install/
 
 ________________________________________________________________________________________________________________
