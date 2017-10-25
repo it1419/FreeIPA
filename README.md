@@ -13,9 +13,13 @@ stahnuti CentOS http://192.168.10.1/http/install/
 ________________________________________________________________________________________________________________
 HARMONOGRAM PRÁCE:
 
-    1. Nainstalování aplikace do VirtualBox
+    1. Nainstalování CentOS do VirtualBox
     3. Nahrání kodu
     4. Vyladění kodu
     5. Dokumentace k projektu
     6. Vytvoření prezentace
 _________________________________________________________________________________________________________________
+25.10.2017
+po problémech s flashkou je projekt funkční na ip add 213.155.227.121, přihlašuji se pomocí openssh. Klíč id_rsa má práva 600, nastavená příkazem chmod.  
+hostname je root.root.org
+tutorial pro web  app authentication je k nalezení zde  https://www.freeipa.org/page/Web_App_Authentication/Example_setup, momentálně na tom pracuji.
